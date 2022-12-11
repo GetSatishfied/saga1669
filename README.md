@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Playback: Music Streaming**
 
-- 🌱 I’m currently learning: **Bootstrap, React.js, Node.js, Web3**
+- 🌱 I’m currently learning: **Full-Stack Web Development: HTML5, CSS3, javaScript, Bootstrap, React.js, Node.js, Web3**
 
 - 📫 How to reach me: **satish16ganesh@gmail.com**
 
