@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satish Gani</h1>
 <h3 align="center">An aspiring Full-Stack Web Developer from India. I also love music and have produced some on SoundCloud. :)</h3>
 
-- 🔭 I’m currently working on: **Playback: Music Streaming**
+- 🔭 I’m currently working on: **LEVELUP: Online Mentorship Web App**
 
 - 🌱 I’m currently learning: **Full-Stack Web Development: HTML5, CSS3, javaScript, Bootstrap, React.js, Node.js, Web3**
 
